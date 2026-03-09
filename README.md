@@ -1,1 +1,0 @@
-# Kuramoto-Model
